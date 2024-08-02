@@ -1,5 +1,5 @@
 ---
-- name: Docker & Docker Compose installation
+- name: Set up Docker & Docker Compose
   hosts: all
   become: true
   tasks:
